@@ -1,4 +1,5 @@
 #Udemig Academy Web Site
+
 Bu proje, yazılım alanında başarılı bir eğitim akademisi için oluşturulmuş bir web sitesidir. HTML ve CSS kullanılarak kodlanmıştır ve modern web tasarım teknikleriyle geliştirilmiştir.
 
 ## İçindekiler
